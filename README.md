@@ -6,8 +6,8 @@
 
 ----
 
-This is an object-oriented implementation of the Enigma Machine. The reflector of this Enigma Machine is a rotor can not rotate.
+This is an object-oriented implementation of the Enigma Machine. 
 
-This machine will soon be used to generate datasets to research the transformer model's ability to decode ciphertexts.
+The reflector of this Enigma Machine is a rotor instance that can not rotate.
 
-The best is yet to come.
+
