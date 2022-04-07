@@ -1,4 +1,4 @@
-# Enigma_Machine
+# A Enigma Machine Simulator
 
 ----
 
